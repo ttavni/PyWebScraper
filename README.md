@@ -5,7 +5,7 @@ A set of functions and classes to help web scraping and simple web audits
 from pyscraper.sitemapper import Sitemapper
 from pyscraper.scrapper import BatchScrape
 
-sitemap = 'https://www.wunderman.com/sitemap.xml'
+sitemap = 'https://www.datascience.com/sitemap.xml'
 
 page_urls = Sitemapper(sitemap)
 completed_urls, broken_urls = BatchScrape(page_urls)
