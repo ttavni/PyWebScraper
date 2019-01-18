@@ -1,4 +1,4 @@
-# SimpleWebScrapes
+# Web Scraping for Python
 A set of functions and classes to help web scraping and simple web audits
 
 ```python
