@@ -5,7 +5,6 @@ from pyscraper.scrapper import BatchScrape
 from pyscraper.viz import VisualiseSitemap
 
 if __name__ == "__main__":
-
 	# Dependencies
 	sitemap = 'https://www.datascience.com/sitemap.xml'
 

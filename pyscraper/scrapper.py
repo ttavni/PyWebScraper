@@ -61,8 +61,8 @@ def SoupExtraction(url):
 
 	return url_dict
 
-def BatchScrape(page_urls):
 
+def BatchScrape(page_urls):
 	completed_urls, broken_urls = [], []
 
 	for url in page_urls:

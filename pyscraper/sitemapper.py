@@ -1,5 +1,6 @@
 from pyscraper.scrapper import ExtractSoup
 
+
 def Sitemapper(sitemap):
 	# Find other sitemaps or pages
 	soup = ExtractSoup(url=sitemap)
