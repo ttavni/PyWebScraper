@@ -19,3 +19,5 @@ VisualiseSitemap(page_urls)
 ```
 
 ![Visualisation](https://i.imgur.com/roapOsx.png)
+
+The text from each page could then be visualised using this [repository](https://github.com/tavni96/2D_Text_Clustering)
